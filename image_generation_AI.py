@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 
-api_key = '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'
+api_key = ''
 
 def openai_request(prompt):
 
