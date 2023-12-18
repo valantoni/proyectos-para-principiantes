@@ -7,8 +7,8 @@
 Para correr cada proyecto hay que ejecutar el comando: streamlit run (nombre del proyecto)
 
 
-No olvides dar una estrella al repositorio si te gustán los proyectos !!
+## No olvides dar una estrella al repositorio si te gustán los proyectos ! ##
 
-Me puedes seguir en mis redes para ver más contenido como este:
+# Me puedes seguir en mis redes para ver más contenido como este:
 
-https://www.youtube.com/@classtonidev
+- https://www.youtube.com/@classtonidev
