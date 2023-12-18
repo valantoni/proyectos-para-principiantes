@@ -29,17 +29,14 @@ def download_image(url, filename):
         with open(filename, 'wb') as file:
             file.write(response.content)
 
-#configure the page
+
 st.set_page_config(page_title="AI Image Generator", page_icon="🤖", layout="centered")
 
-#create a streamlit app 
+
 st.image("images/full.jpg", use_column_width=True)
 st.title("AI Image Generator")
-
-# Add a sidebar
 description = st.text_area("Prompt")
 
-# Add a button
 if st.button("Generate Image"):
     with st.spinner("Generating your image..."):
         url = openai_request(description)
