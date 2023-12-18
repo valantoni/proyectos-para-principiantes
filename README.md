@@ -1,4 +1,4 @@
-# Tres proyectos para principiantes con python ##
+# Tres proyectos para principiantes con python 🐍##
 
 - Acortador de URLs
 - Generador de códigos QR
