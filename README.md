@@ -11,4 +11,6 @@ Para correr cada proyecto hay que ejecutar el comando: streamlit run (nombre del
 
 ### Me puedes seguir en mis redes para ver más contenido como este:
 
-- https://www.youtube.com/@classtonidev
+- https://www.youtube.com/@tonidev_
+
+### Puedes apoyarme aquí: https://www.youtube.com/channel/UCJ_twZENBaL3L6AmIGYHVrw/join
