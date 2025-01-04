@@ -17,6 +17,7 @@ def generate_qr_code(url, filename):
     img.save(filename)
 
 #create a streamlit app 
+#config
 st.set_page_config(page_title="QR Code Generator", page_icon="🌐", layout="centered")
 st.image("images/supports.JPG", use_column_width=True)
 st.title("QR Code Generator")
